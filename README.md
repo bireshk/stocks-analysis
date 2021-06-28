@@ -19,4 +19,4 @@ Below are the runtime snapshots of the refactored script:
 ## Summary
 1. Refactoring plays an important role for computer programmer. It makes software easier to understand, helps finding bugs and also helps in executing the program faster. 
 However, refactoring has certain disadvantages as side effects, for example, developer and tester needs to do more testing and subsequently it becomes more time consuming.
-2. In our original VBS script (without refactor), the excel sheet was read multiple times for each stock whereas in the refactored script, the sheet was read only once to scan through all the stocks. This makes the execution time significantly less. However, it took longer time for anyone to write the refactored script.
+2. In our original VBS script (without refactor), the excel sheet was read multiple times for each stock whereas in the refactored script, the sheet was read only once to scan through all the stocks. This makes the execution time significantly less. However, it takes longer time for anyone to write the refactored script.
